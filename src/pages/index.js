@@ -8,12 +8,12 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>All about Spider Man</>,
+    title: <>Based on Marvel Comics</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        This wiki is all about the superhero Spider Man and made with ReactJS
-        using CSS3 and JavaScript with the help of docusaurus 2.
+        This wiki is based on the Marvel superhero Spider Man and Just made for fun.
+        This wiki is not anyway affliated with Marvel.
       </>
     ),
   },
