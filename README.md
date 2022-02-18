@@ -1,1 +1,3 @@
 # Spider-Man-Wiki
+- A fanmade Spider man wiki made with ReactJS with CSS3 and JavaScript with the help of Docusaurus-2.
+- Not ready yet. will be finished soon...
