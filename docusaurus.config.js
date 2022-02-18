@@ -1,9 +1,9 @@
 module.exports = {
   title: 'Spider Man Wiki',
-  tagline: 'A open source Spider man wiki made with ReactJS',
+  tagline: 'An open source Spider man wiki made with ReactJS',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/spiderman.png',
   organizationName: 'RedEdge967', // Usually your GitHub org/user name.
   projectName: 'Spider-Man-Wiki', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'Spider Man Wiki',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/spiderman.png',
       },
       links: [
         {
