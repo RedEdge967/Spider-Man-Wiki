@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Based on Marvel Comics</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/marvel.png',
     description: (
       <>
         This wiki is based on the Marvel superhero Spider Man and Just made for fun.
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Open Source</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/github.png',
     description: (
       <>
         This Spider Man wiki is fully Open Source on Github and simply deployed to
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/react.png',
     description: (
       <>
         This fanmade Spider Man wiki is fully powered by ReactJS and made using
