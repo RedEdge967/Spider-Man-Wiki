@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    General: ['doc1'],
+    Introduction: ['intro'],
   },
 };
