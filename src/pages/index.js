@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Based on Marvel Comics</>,
+    title: <>Based on MCU</>,
     imageUrl: 'img/marvel.png',
     description: (
       <>
