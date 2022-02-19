@@ -9,6 +9,6 @@
   - [x] Introduction
   - [x] Sam Raimi's Spider man page
   - [x] Columbia picture's Amazing spider man
-  - [ ] MCU's Spider Man
+  - [x] MCU's Spider Man
   - [ ] Villains
     - [ ] None yet
