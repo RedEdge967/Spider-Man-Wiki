@@ -11,7 +11,7 @@ Notice that this wiki is based on **Sam Raimi's Spider man 1, 2 and 3 only**.
 
 > "Whatever life holds in store for me, I will never forget these words: With great power comes great responsibility. This is my gift. My curse. Who am I? I'm Spider-Man."  - Peter Parker
 
-Peter Parker (of Earth-96283) also known as Spider-Man is a superhero and lives in New York City.
+Peter Parker also known as Spider-Man is a superhero and lives in New York City.
 
 ### Early life
 
@@ -33,6 +33,7 @@ In Spider-Man 3, an alien Symbiote attaches itself to Peter's Spider-Man costume
 
 ## Powers and Abilities
 ### Powers
+
 - Spider Physiology: After being bitten by a genetically altered "super" spider, Peter Parker/Spider-Man possesses the proportionate powers of a spider. His powers include:
    - **Precognitive Spider-Sense**: *Spider-Man possesses a precognitive "spider" or "danger" sense that warns him of impending danger by the manifestation of a tingling sensation in the base of his skull, and links with his superhuman kinesthetics, enabling him to evade most injuries unless he cognitively overrides his automatic reflexes. The precise nature of this sense is unknown. It appears to be a simultaneous clairvoyant response to be a wide variety of phenomena -falling safes to speeding bullets to thrown punches- which has given several hundredths of a second warning, which is sufficient time for his reflexes to allow him to avoid injury. The sense can also create a general response on the order of several hours: he can discern the nature of the threat by the sensation and discern the severity of the danger by the strength of his response to it. Spider-Man's spider-sense is directional and can guide him to or away from hidden or disguised weapons and enemies, Sudden and extreme threats can cause his spider-sense to react with painful intensity. the spider-sense also gives him the ability to psychologically see his surrounding environment, even when blinded or in extremely dark conditions, allowing him to navigate without worry or fear, even under normal conditions, his spider-sense helps him navigate darkened rooms, instinctively avoiding obstacles or hazards, or potentially noisy or unstable floorboards, walls or ceilings that may betray his presence, Spider-Man can also sense and dodge attacks directed randomly or by a computer. Using his spider-sense to time his enhanced reflexes, Spider-Man can casually dodge attacks up to and including automatic-weapons fire, even at point-blank range. His spider-sense is sufficiently well-linked to his reflexes to the point that a threat can trigger them even when Spider-Man is asleep or stunned. His spider-sense has helped him preserve his secret identity since it alerts him to observers or cameras when changing into or out of his costume. The spider-sense does react to those who Peter does not consider to be a threat, such as Aunt May. Spider-Man can choose to ignore his spider-sense through intense concentration, though it gets difficult as the more threatening the more danger is, and it can lose it's effectiveness if he is exhausted or distracted. Spider-Man's fighting style incorporates the advantage that his "spider-sense" provides him. His body begins to produce more adrenaline after the sense is triggered, an extension of the "fight or flight syndrome". Even that he does not have the use of his eyes Spider-Man can still use his spider-sense to help him see by sensing the direction the danger is coming from by gauging the intensity of the sense tingle in the relation of the direction he is moving. The spider-sense is also completely passive and endlessly uncontrollable.*
 
@@ -58,9 +59,27 @@ In Spider-Man 3, an alien Symbiote attaches itself to Peter's Spider-Man costume
 
    - **Wall-Crawling**: *After being bitten, Peter's skin grows a sharp, "barbed" like material and allows Spider-Man to stick to any surface, no matter how rough or slippery.*
 
+### Abilities
 
+- **Indomitable Will**: *Spider-Man has a strong Force Of Will, completely free of all known evil and temptation, he is incapable of doing anything evil or unjust and will struggle against doing such things, He can emerge from defeat even stronger.*
 
+- **Genius-Level Intellect**: *Peter Parker is very smart as he has an expert in all kinds of science. Peter goes from a science whiz in high school to a laboratory assistant of Dr. Connors and a brilliant Columbia University physics student who is at the top of his class as he becomes secure with his dual roles.*
 
+- **Science Major**: *His knowledge of science has impressed the likes of Norman Osborn, Otto Octavius, and Doctor Connors. Considered a genius by Harry and Gwen, he has shown himself to be knowledgeable in mechanics, quantum mechanics, photonics, nuclear fusion, acoustics, and technology.*
+
+- **Skilled Photographer**: *Peter is a very skilled photographer.*
+
+- **Expert Acrobat**: *Thanks to his superhuman agility, speed, equilibrium, reflexes, and strength, Peter is a very skilled acrobat and gymnast. He is skilled in all kinds of acrobatics and gymnastics as he uses these to dodge or counter any attack, including gunfire, even in the air.*
+
+- **Expert Combatant**: *Due to his life being bullied/pranked by Flash Thompson to acquiring amazing superhuman capabilities and combining them with his scientifically, adept, and creative mind, Peter has through time become a formidable hand-to-hand combatant utilizing a fighting style that directly complements his superhuman abilities. His methods are volatile, enabling him to rival practically all types of combatants.*
+
+## Weaknesses
+
+- **Spider-Sense Disruption**: *Due to Spider-Man being a host to the symbiote, his Spider-Sense will lose its effects quicker if Venom is close to him. This allows Venom to attack Spider-Man without triggering his Spider-Sense.*
+
+## Gallery
+
+![](https://townsquare.media/site/442/files/2020/06/Spider-Man.jpg?w=980&q=75) ![](https://cdn.mos.cms.futurecdn.net/5Yu39XoCEGPaHwoyGQES3C.jpg) ![](https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1594149808016-500IF4JNWR45U40Q12ZK/image-asset.jpeg)
 
 
 
