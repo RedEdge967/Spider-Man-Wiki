@@ -5,7 +5,7 @@ title: Columbia Picture's Amazing Spider Man
 
 :::info
 
-Notice that this wiki page is based on Columbia Picture's Amazing Spider Man 1 and 2.
+Notice that this wiki page is based on **Columbia Picture's Amazing Spider Man 1 and 2**.
 
 :::
 
