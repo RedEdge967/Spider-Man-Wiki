@@ -38,6 +38,14 @@ module.exports = {
               label: 'Introduction',
               to: 'docs/intro',
             },
+            {
+              label: 'Spider-Man',
+              to: 'docs/wiki1',
+            },
+            {
+              label: 'Villains',
+              to: 'docs/villain1',
+            },
           ],
         },
         {
