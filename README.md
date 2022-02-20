@@ -5,12 +5,12 @@
 
 ## Progress
 - [x] Home page
-- [ ] Wiki Pages
+- [x] Wiki Pages
   - [x] Introduction
   - [x] Sam Raimi's Spider man page
   - [x] Columbia picture's Amazing spider man
   - [x] MCU's Spider Man
   - [ ] Villains
-    - [ ] None yet
+    - [x] Green Goblin
 
 *Suggest more pages for this spider man wiki [here](https://github.com/RedEdge967/Spider-Man-Wiki/issues/6).*
