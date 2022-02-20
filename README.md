@@ -5,6 +5,7 @@
 
 ## Progress
 - [x] Home page
+- [x] Introduction 
 - [x] Wiki Pages
   - [x] Introduction
   - [x] Sam Raimi's Spider man page
@@ -12,5 +13,6 @@
   - [x] MCU's Spider Man
   - [ ] Villains
     - [x] Green Goblin
+    - [ ] Loading...
 
 *Suggest more pages for this spider man wiki [here](https://github.com/RedEdge967/Spider-Man-Wiki/issues/6).*
