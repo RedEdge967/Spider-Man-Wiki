@@ -1,6 +1,6 @@
 ---
 id: villain2
-title: Otto Octavius (Dr. Octopus) (From Sam Raimi's Spider Man 1)
+title: Otto Octavius (Dr. Octopus) (From Sam Raimi's Spider Man 2)
 ---
 
 ## Early life
