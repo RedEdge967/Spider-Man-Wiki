@@ -5,8 +5,7 @@
 
 ## Progress
 - [x] Home page
-- [x] Introduction 
-- [x] Wiki Pages
+- [ ] Wiki Pages
   - [x] Introduction
   - [x] Sam Raimi's Spider man page
   - [x] Columbia picture's Amazing spider man
