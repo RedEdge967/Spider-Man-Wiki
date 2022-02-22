@@ -16,6 +16,18 @@ In an alternate reality, Dr. Stephen Strange casts a spell to erase people's mem
 
 When Peter-One offers a cure, Octavius is reluctant, believing he does not need fixing. Nonetheless, Peter-One and Norman give him a new inhibitor chip, giving Octavius his humanity and control over his arms back. Seeing the similarities between Peter-One and his own, a grateful Octavius offers to help cure the remaining villains, but Norman's Goblin personality takes control and convinces the uncured villains to fight back. Octavius attempts to stop them, but is knocked away by Max Dillon and forced to escape. Later on, Octavius reunites with Peter-One and his version of Parker (nicknamed "Peter-Two") before joining forces with them and a third version of Parker (nicknamed "Peter-Three") to cure Dillon and fight back against the Goblin. Afterwards, Strange returns the displaced individuals back to their native universes, with Octavius taking an arc reactor back with him.
 
+## Powers and Abilities
+### Powers
+- Mechanical Tentacles: Because of the accident that fused four mechanical tentacles to his spine, Doctor Octopus has the ability to control his four tentacles either mentally or telepathically. Each tentacle has superhuman strength, durability and has spikes coming out of the "eyes".
+- Superhuman Strength: Each tentacle has superhuman strength, which allows Doc Ock to easily overpower humans, rip metal objects, lift cars and even overpower the experienced superhero Spider-Man.
+- Telescoping: The tentacles are eight feet long and Doctor Octopus can extend them to 24 feet long. He demonstrated this when he moved the train passengers out of the way in order to grab Spider-Man.
+- Wall-Climbing: Doctor Octopus can make the tentacles climb up walls or even travel along with the use of his feet.
+- Durability: The tentacle harnesses allows Doc Ock to survive great impacts such as smashing through a brick wall or even the side of a Taxi Cab.
+- Energy Shield (Game only): Doctor Octopus is able to generate a energy shield with the help of the power from his 2nd fusion experiment, making him invulnerable to Spider-Man's attacks. This energy shield is destroyed after Spider-Man shuts down the power via turning the switches off. Doctor Octopus is only able to use this in the Spider-Man 2 game.
+
+### Abilities
+- Genius-Level Intellect: Otto Octavius is a proven great scientific genius, which he intended to use for humanity and develop his greatest project to revolutionize fusion, he was student in science before, he has always had an incredible talent for science
+
 ## Gallery
 
 ![](https://d.newsweek.com/en/full/1878413/dr-octopus-spiderman-no-way-home.jpg) ![](https://static2.srcdn.com/wordpress/wp-content/uploads/2021/11/Doctor-Octopus-Arms-Spider-Man-No-Way-Home.jpg?q=50&fit=crop&w=737&h=368&dpr=1.5) ![](https://sportshub.cbsistatic.com/i/2021/12/31/178dfa1b-d78d-4e30-a8e2-1365259ba2e2/spider-man-no-way-home-doctor-octopus-alfred-molina.jpg)
