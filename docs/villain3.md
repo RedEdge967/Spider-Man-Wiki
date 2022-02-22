@@ -11,6 +11,13 @@ title: Sandman (From Sam Raimi's Spider Man 3)
 
 - A member of the Elementals inspired by the Sandman appeared in the live-action MCU film Spider-Man: Far From Home. Identified as the Earth Elemental, it had power over rocks and sand. It attacked Mexico, during which it encountered Nick Fury and Maria Hill before Mysterio defeated it off-screen. Peter Parker later discovers the Elementals were illusions created by Mysterio and his fellow ex-Stark Industries employees as part of his plot to obtain Tony Stark's technology and fraudulently establish himself as a superhero.
 
+## Powers
+- Body Conversion - Sand: The Sandman possesses the superhuman ability to convert his body into sand by mental command. The sand functions identically to, as well as appears to be, normal flesh. However, he can convert all or parts of his body into animated sand at will. His brain has attained subliminal awareness of all granulated particles of his body. Through conscious effort, he can affect the degree of molecular cohesion between the numerous adjoining surfaces of his particles and thus cause locomotion of discrete volumes, down to the individual grains.
+
+## Weaknesses
+- Water:
+- Extreme Heat:
+
 ## Gallery
 
 ![](https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/spider-man-3-thomas-haden-church-sandman.jpg) ![](https://i.ytimg.com/vi/to29LvuColU/sddefault.jpg) ![](https://images.thedirect.com/media/photos/sandman-spider-man.jpg)
