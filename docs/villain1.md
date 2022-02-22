@@ -23,6 +23,17 @@ Osborn wanders into F.E.A.S.T. where he meets an alternate May Parker. Osborn re
 
 After Connors, Marko, and Dillon are cured with help from Octavius, the Goblin attacks and destroys the contained spell from Strange, causing the barriers between universes to break. While Strange attempts to seal the barriers, an enraged Peter-One nearly kills the Goblin but is stopped by the Parker from Osborn's universe (nicknamed "Peter-Two"), whom the Goblin stabs in the back. Peter-One and another version of Parker (nicknamed "Peter-Three") inject the Goblin with a cure Parker developed, restoring him to a remorseful Norman Osborn. Afterwards, Strange casts a spell to make the alternate world forget Peter-One's existence, causing Osborn, Octavius, Marko, and their Peter Parker to return to their universe.
 
+## Abilities and Equipment
+The Green Goblin pilots a high-tech jet glider, armed with seeking missiles and machine guns. His suit consists of green armor that cybernetic-ally connects him to his glider and weapons. He is seen using three varieties of his signature "Pumpkin Bombs": one which is a simple explosive; one that releases a bright, radioactive flash which reduces people to skeletons; and one that splits into flying, razor-bat blades.
+
+Rather than carrying a shoulder "bag of tricks", the weapons are contained in the glider and are ejected individually out of their storage compartment when desired. His suit is armed with knockout gas that is released from the wrists.
+
+His suit is also linked to the Goblin Glider, allowing him to control it remotely. Green goblin has superhuman strength capable of beating Spider-Man in battle using his hand to hand combat (though Spider-Man was hurt) he can also break Spider-Mans web which is like metal really easily.
+
+He even shows strength when he punches a wall when Spider-Man ducks in the final battle and he busted the wall completely showing his strength of his blows. He has a shiny trident specifically to kill Spider-Man. His armor protects him from majority of injuries so he 's barely being hurt or damaged from fighting unlike Spider-Man. It's only damaged when Spider-Man brings down a brick wall which made his suit finally experience dents and scratches.
+
+In the Spider-Man movie game, Green Goblin is able to run really fast using superspeed if the player plays as him. It is unknown if he could be able to use this ability since it is exclusive in the game.
+
 ## Gallery
 
 ![](https://i.ytimg.com/vi/sAfxBXAQCZM/maxresdefault.jpg) ![](https://cdn.mos.cms.futurecdn.net/ANSLcvT8joUABRN5SDniRQ.jpg) ![](https://cdn.vox-cdn.com/thumbor/HnSCoVd2iuXHPw3wArp3GcOMHmA=/0x0:1920x1040/1200x0/filters:focal(0x0:1920x1040):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23104367/spider_man_movie_screencaps.com_7765.jpg)
