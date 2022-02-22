@@ -57,3 +57,6 @@ While outside, Connors saw Peter's city-wide broadcast to lure the villains, rev
 ### Abilities
 - Genius Intellect: Connors has a genius-level intelligence and is a world renowned herpetologist.
 
+## Gallery
+
+![](https://wegotthiscovered.com/wp-content/uploads/2021/08/Lizard-The-Amazing-Spider-Man-640x321.jpg) ![](https://static2.cbrimages.com/wordpress/wp-content/uploads/2021/12/TASM-Lizard-Spider-Man-Fight-Atop-Oscorp-Tower.jpg?q=50&fit=crop&w=767&h=450&dpr=1.5) ![](https://heroichollywood.com/wp-content/uploads/2020/04/Michael_Fassbender_The_Amazing_Spider_Man_The_Lizard-1280x720.jpg)
