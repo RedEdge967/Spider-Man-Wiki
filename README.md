@@ -14,6 +14,7 @@
     - [x] Green Goblin
     - [x] Dr. Octopus
     - [x] Sandman
+    - [x] Venom
     - [ ] Loading...
 
 *Suggest more pages for this spider man wiki [here](https://github.com/RedEdge967/Spider-Man-Wiki/issues/6).*
