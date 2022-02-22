@@ -32,3 +32,7 @@ Eventually, the other 2 Spider-Men come and join forces with the MCU Spider-Man 
 - Electrical Detection: Electro's electrical powers grants him certain sensory and manipulative abilities. Electro can override systems and make electrically-powered devices obey his mental commands.
 - Electricity Immunity: Electro's body is immune to the effects of its electricity and that of other sources as well.
 - Charging: Electro can charge himself up to reach high maximum voltage.
+
+## Galley
+
+![](https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/11/foxx-electro-header.jpg) ![](https://www.liveforfilm.com/wp-content/uploads/2020/10/electro.jpg) ![](https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/97939.jpg)
