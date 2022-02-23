@@ -17,6 +17,8 @@
     - [x] Venom
     - [x] Lizard
     - [x] Electro 
-    - [ ] Loading...
+    - [ ] Vulture
+    - [ ] Mysterio
+  - [ ] Loading
 
-*Suggest more pages for this spider man wiki [here](https://github.com/RedEdge967/Spider-Man-Wiki/issues/6).*
+*Suggest more pages for this spider man wiki [here](https://github.com/RedEdge967/Spider-Man-Wiki/issues/new).*
