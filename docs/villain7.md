@@ -38,3 +38,7 @@ Toomes was outfitted with a flying mechanical suit created by Phineas Mason with
 ### Other Equipments
 - Arc Reactors: Toomes attempted to steal several Arc Reactors from the Stark Cargo Plane but his plans were interrupted by Spider-Man. He attempted to steal a crate full of them but the plane crashed due to his fight with Spider-Man foiling his plans. Toomes' Exo-Suit had malfunctioned due to radiation from the arc reactors which allowed Spider-Man to subdue him.
 - Switchblade: Toomes used this knife in order to free his hand from Spider-Man's webbing during their confrontation at his hideout.
+
+## Gallery
+
+![](https://wallpapercave.com/wp/wp10145980.jpg) ![](https://cdn.wallpapersafari.com/11/68/X1rPGk.jpg) ![](https://static3.srcdn.com/wordpress/wp-content/uploads/2016/12/Spider-Man-Homecoming-Vulture-mask1.jpg)
