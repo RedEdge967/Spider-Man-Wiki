@@ -38,3 +38,7 @@ Beck grew much more desperate and blood-lusted in his second confrontation with 
 - Mysterio Suit: Beck wore a suit specifically designed by Janice Lincoln to look heroic and otherworldly to best suit his plans. Beck wore it whenever he didn't need to fly or other such feats, like talking to someone that is in the same room with him.
 - Tony Stark's Glasses: A pair of sunglasses that belonged to Tony Stark and equipped with E.D.I.T.H. Beck used the sunglasses to command his Combat Drones to kill Spider-Man and later command them to kill off his friends that were hiding away from a vault in London.
 - E.D.I.T.H.: An A.I. designed by Tony Stark for Peter Parker which provided the user with access the Stark satellite network in an augmented reality interface with advanced data analysis and hacking capabilities. Parker granted access to E.D.I.T.H. to Beck which he used to increase the efficiency of his illusions and even detail Parker's friend's personal information and their location through security feed.
+
+## Gallery
+
+![](https://www.cinepremiere.com.mx/wp-content/uploads/2019/07/Mysterio-1024x559.jpg) ![](https://www.screengeek.net/wp-content/uploads/2019/10/spider-man-far-from-home-mysterio-1.jpg) ![](https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/08/26/Pictures/_8c49a612-e77a-11ea-a3f1-ae3180321f49.jpg)
