@@ -11,7 +11,7 @@
   - [x] Sam Raimi's Spider man page
   - [x] Columbia picture's Amazing spider man
   - [x] MCU's Spider Man
-  - [ ] Villains
+  - [x] Villains
     - [x] Green Goblin
     - [x] Dr. Octopus
     - [x] Sandman
