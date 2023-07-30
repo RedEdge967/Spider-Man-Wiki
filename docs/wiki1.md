@@ -1,6 +1,6 @@
 ---
-id: wiki1
-title: Sam Raimi's Spider-Man
+id: "wiki1"
+title: "Sam Raimi's Spider-Man"
 ---
 
 :::info

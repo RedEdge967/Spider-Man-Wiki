@@ -1,6 +1,6 @@
 ---
-id: wiki2
-title: Columbia Picture's Amazing Spider Man
+id: "wiki2"
+title: "Columbia Picture's Amazing Spider Man"
 ---
 
 :::info

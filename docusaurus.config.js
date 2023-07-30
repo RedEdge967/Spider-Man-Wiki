@@ -13,7 +13,7 @@ module.exports = {
         alt: 'My Site Logo',
         src: 'img/spiderman.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/intro',
           activeBasePath: 'docs',

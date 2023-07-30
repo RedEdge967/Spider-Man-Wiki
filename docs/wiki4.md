@@ -1,19 +1,18 @@
 ---
 id: wiki4
-title: Marvel's Spider-Man: Miles Morales
+title: "Spider-Man : Into the Spider-verse"
 ---
 
 :::info
 
-This wiki page is based on the Sony animated version of Miles Morales
-
+This wiki page is based on the into the spider-verse movie
 :::
 
-> “WHEN WILL I KNOW I’M READY?”
->“YOU WON’T. IT’S A LEAP OF FAITH.”
+> "WHEN WILL I KNOW I’M READY?"
+>"YOU WON’T. IT’S A LEAP OF FAITH."
 -Spider-Man: Into the Spider-Verse
 
-### Early Life
+### Plot
 Brooklyn based Miles Morales struggles to live up to the expectations of his father, police officer Jefferson Davis, who sees Spider-Man as a villian. Miles adjusts to his new school and visits his uncle Aaron Davis, who takes him to an abandoned subway station to paint some graffiti. Miles is bitten by a spider which has an element of radioactivity in its DNA structure and gains spider-like abilities similar to Spider-Man. Returning to the station, Miles discovers a device (the super collider) built by Wilson Fisk's minion Olivia Octavius, Fisk hopes to use it to travel across parallel universes to bring back his late wife and son, whose deaths he inculpates on Spider-Man. Miles looks on as Spider-Man attempts to (unsuccessfully) disable the super collider while fighting the Green Goblin, and the Prowler.
 
 Spider-Man manages to rescue Miles, but Green Goblin knocks Spider-Man into the super collider, causing an detonation that kills the Goblin and maims Spider-Man. Spider-Man then gives Miles a USB flash drive designed to disable the collider, warning that the machine could destroy the city if reactivated. Watching as Fisk kills Spider-Man, Miles flees with Prowler in pursuit, eventually losing him. As the world mourns Spider-Man's death, Miles tries to honor his legacy. He accidentally damages the drive. At Spider-Man's grave, Miles meets Peter B. Parker, an older version of Spider-Man from another universe. Upon meeting him, Miles discovers his ability to discharge "venom-blasts".
@@ -30,4 +29,4 @@ Miles adaapts to the responsibilities of his new life, while the Spiders return 
 
 ## Gallery
 
-![](https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg) ![](https://play-lh.googleusercontent.com/tRZYfjWo9wpy_yTCjEaIAikiJZzHYNDZN_6teeZ1JM9MEanq4PLvEmSGtn2AtTLO1XY-cA) ![](https://resizing.flixster.com/_l50Ahm00b-RO9Ao2s3AyMjUWiU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExYTZmMWFkLWViZWItNDNhMS1iZTEwLTcxODk1YTk3NWFhMy53ZWJw)
+![](https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg)  ![](https://resizing.flixster.com/_l50Ahm00b-RO9Ao2s3AyMjUWiU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExYTZmMWFkLWViZWItNDNhMS1iZTEwLTcxODk1YTk3NWFhMy53ZWJw)
